@@ -15,6 +15,8 @@ public class Java1 {
 
         System.out.println("Hola mon!");
 
+        System.out.println("Hola mon!");
+
                 System.out.println("Hola mon!");
     }
 }
